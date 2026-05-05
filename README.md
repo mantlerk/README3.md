@@ -147,6 +147,7 @@ FIRST и FOLLOW множества не пересекаются
 
 ### Псевдокод функций
 
+```mermaid
 graph TD
     START --> PROGRAM
     
@@ -205,3 +206,5 @@ graph TD
     end
     
     PROGRAM --> END
+```
+
